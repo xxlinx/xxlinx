@@ -1,7 +1,7 @@
 - 👋 Hi, I’m linxiang
 - 👀 I’m interested in CV NLP
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on cv
+- 💞️ I’m looking to collaborate on ... I don't know
 - 📫 How to reach me linxianghs@163.com
 
 <!---
