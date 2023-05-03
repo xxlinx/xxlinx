@@ -1,7 +1,7 @@
 - 👋 Hi, I’m linxiang
-- 👀 I’m interested in CV NLP
+- 👀 I’m interested in deep learning
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ... I don't know
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me  ..sry
 
 <!---
