@@ -1,4 +1,4 @@
-- 👋 Hi, I’m xlin
+- 👋 Hi, I’m xxlinx
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ... 
